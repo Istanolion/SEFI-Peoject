@@ -1,0 +1,33 @@
+# Blender MTL File: 'piramide_sefi.blend'
+# Material Count: 3
+
+newmtl Material
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.095307 0.127438 0.048172
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Z:\\Descargas\\SEFI\\SEFI-Peoject\\PropuestaVR_SEFI\\Assets\\Sprites\\grass_texture.jpg
+
+newmtl Material_0.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 X:\\2018\\ESR\\EDZNA\\NormalMap_0.jpg
+map_Kd Z:\\Descargas\\Users\\ADMINI~1\\AppData\\Local\\Temp\\DiffuseMap_0.jpg
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
